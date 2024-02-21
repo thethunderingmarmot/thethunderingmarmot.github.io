@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: Tommaso's
 description: This is just one of my creative outlets, I'll just have some fun writing random stuff.
 minima:
